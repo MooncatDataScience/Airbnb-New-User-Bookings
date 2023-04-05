@@ -1,0 +1,15 @@
+signup_app - 21354	             language
+ - first_device_type                 - en
+ - first_browser                      - other
+ - first_affiliate_tracked ⚡           
+ - affiliate_provider
+ - affiliate_channel
+ - gender	
+ - age ⚡ ⚠️
+
+
+⚡ 缺值  ⚠️資料不合理 
+
+
+
+
