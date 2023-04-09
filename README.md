@@ -11,16 +11,22 @@
 本倉庫包含以下數據集：
 
 train_users_2.csv：包含用戶的基本信息和註冊時間等。
+
 sessions.csv：包含用戶的行為數據，如查看頁面、搜索、預訂等。
+
 age_gender_bkts.csv：包含用戶的年齡和性別等基本信息。
+
 countries.csv：包含各個國家的基本信息和屬性。
+
 test_users.csv：包含測試集的用戶信息。
 
 ### 預測比賽內容程式碼
+
 本倉庫包含完整的預測比賽內容程式碼，ML_XGB_Clone.py。
 
 
 ### 如何使用
+
 克隆本倉庫到本地：
 ```
 git clone https://github.com/MooncatDataScience/Airbnb-New-User-Bookings.git
@@ -31,6 +37,7 @@ ML_A_Feature Engineering.ipynb
 
 ### EDA和粒度分析檔案參考
 AY_Exploration.ipynb
+
 AY_granularity .ipynb
 
 ## 貢獻者
